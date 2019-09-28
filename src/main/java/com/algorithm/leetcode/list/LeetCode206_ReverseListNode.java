@@ -1,4 +1,4 @@
-package com.algorithm.leetcode;
+package com.algorithm.leetcode.list;
 
 /**
  * @Description https://leetcode-cn.com/problems/reverse-linked-list/

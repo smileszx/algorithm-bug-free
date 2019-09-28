@@ -1,7 +1,7 @@
-package com.algorithm.leetcode;
+package com.algorithm.leetcode.list;
 
-import com.algorithm.leetcode.common.ListNode;
-import com.algorithm.leetcode.common.ListNodeUtil;
+import com.algorithm.leetcode.list.ListNode;
+import com.algorithm.leetcode.list.ListNodeUtil;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,6 +1,6 @@
-package com.algorithm.leetcode;
+package com.algorithm.leetcode.list;
 
-import com.algorithm.leetcode.common.TreeNode;
+import com.algorithm.leetcode.list.TreeNode;
 
 import java.util.ArrayList;
 import java.util.List;

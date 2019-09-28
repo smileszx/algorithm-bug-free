@@ -1,6 +1,6 @@
-package com.algorithm.leetcode;
+package com.algorithm.leetcode.list;
 
-import com.algorithm.leetcode.common.ListNode;
+import com.algorithm.leetcode.list.ListNode;
 
 /**
  * @Description

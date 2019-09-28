@@ -1,8 +1,8 @@
-package com.algorithm.leetcode.common;
+package com.algorithm.leetcode.list;
 
 /**
  * @Description
- * 
+ *
  * @Author victor su
  * @Date 2019/8/11 23:38
  **/

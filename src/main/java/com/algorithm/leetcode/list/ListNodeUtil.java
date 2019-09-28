@@ -1,4 +1,4 @@
-package com.algorithm.leetcode.common;
+package com.algorithm.leetcode.list;
 
 /**
  * @Description

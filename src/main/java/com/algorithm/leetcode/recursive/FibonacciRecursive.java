@@ -1,4 +1,4 @@
-package com.algorithm.leetcode;
+package com.algorithm.leetcode.recursive;
 
 import java.util.concurrent.ConcurrentHashMap;
 
