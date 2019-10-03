@@ -35,7 +35,7 @@ public class LeetCode647_CountSubstrings {
 
     public static void main(String[] args) {
 
-        String s = "abc";
+        String s = "abccba";
         Integer result = countSubstrings(s);
         LOGGER.info("========> 回文字符串: {}, 回文子串数：{}", s, result);
     }
@@ -68,7 +68,7 @@ public class LeetCode647_CountSubstrings {
         while (start >= 0 && end < s.length() && s.charAt(start--) == s.charAt(end++)) {
             count++;
         }
-        LOGGER.info("============> 包含 {} 个回文子串。", count);
+        LOGGER.info("==> 包含 {} 个回文子串。", count);
         return count;
     }
 
