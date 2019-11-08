@@ -17,7 +17,6 @@ public class BucketSort {
         bucketSort(nums);
     }
 
-
     public static void bucketSort(int[] arr){
         int max = Integer.MIN_VALUE;
         int min = Integer.MAX_VALUE;
