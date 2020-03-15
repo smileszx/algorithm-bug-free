@@ -19,7 +19,7 @@ public class QuitSort {
 
     public static void main(String[] args) {
         int[] arr = new int[] {4,7,6,5,3,2,8,1};
-//        quickSort(arr, 0, arr.length-1);
+        quickSort(arr, 0, arr.length-1);
         quickSortByPointor(arr, 0, arr.length-1);
         System.out.println(Arrays.toString(arr));
     }
