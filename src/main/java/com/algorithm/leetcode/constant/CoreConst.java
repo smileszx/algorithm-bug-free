@@ -79,9 +79,6 @@ public interface CoreConst {
     /** 数据库中boolean类型字段的默认值，表示未选择 */
     int JDBC_BOOLEAN_DEFAULT_VALUE = -1;
 
-    /** 小米邮箱后缀 */
-    String XIAOMI_EMAIL_SUFFIX = "@xiaomi.com";
-
     /**
      * 邮箱分隔符
      */
@@ -102,9 +99,6 @@ public interface CoreConst {
 
     /** 系统用户 */
     String SYSTEM_USER = "system";
-
-    /** upc系统用户 */
-    String SYSTEM_USER_UPC = "upc";
 
     /** 日期格式化 */
     String DATE_PATTERN_YMD = "yyyy-MM-dd";
